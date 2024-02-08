@@ -1,0 +1,15 @@
+.emp-card {
+  background-color: lightsteelblue;
+  padding: 16px;
+  margin: 2px;
+  width: 500px;
+}
+.emp-container {
+  display: flex;
+}
+
+.emp-form {
+  padding: 16px;
+  margin: 2px;
+  background-color: lightblue;
+}
